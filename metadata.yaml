@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6159
     wikipedia: http://fi.wikipedia.org/wiki/Tekla_Roschier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15611#Auringon-noustessaKasvavalle-nuorisolle
 gutenberg_issued: '2005-04-13'
 gutenberg_type: Text
 identifiers:
